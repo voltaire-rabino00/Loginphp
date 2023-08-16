@@ -24,7 +24,7 @@
         <input type="password" id="pass" name="pass" placeholder="Enter Password" required> <br><br>
         <i class="fa-solid fa-lock"></i>
         <input type="password" id="cpass" name="cpass" placeholder="Confirm Password" required> <br><br>
-        <input type="submit" value="Signup" id="btn" name="submit"/>
+        <input type="submit" value="Signup" id="btn" name="submit">
       </form>
    </div>
 
